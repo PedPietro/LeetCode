@@ -24,3 +24,5 @@ public class Solution {
             } 
     }
 }
+
+//about 2 hours, without using AI help
